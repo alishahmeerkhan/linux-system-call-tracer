@@ -3,3 +3,5 @@
 *.a
 *.out
 main
+*.log
+/test_cases

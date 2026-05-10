@@ -1,281 +1,656 @@
-[PID 9579] Entered syscall: 219
-[PID 9579] Entered syscall: 59
-[PID 9579] Entered syscall: 59
-[PID 9579] Entered syscall: 59
-[PID 9579] Entered syscall: 59
-[PID 9579] Entered syscall: 59
-[PID 9579] Entered syscall: 59
-[PID 9579] Entered syscall: 12
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 21
-[PID 9579] Entered syscall: 257
-[PID 9579] Entered syscall: 5
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 3
-[PID 9579] Entered syscall: 257
-[PID 9579] Entered syscall: 0
-[PID 9579] Entered syscall: 5
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 3
-[PID 9579] Entered syscall: 257
-[PID 9579] Entered syscall: 0
-[PID 9579] Entered syscall: 17
-[PID 9579] Entered syscall: 5
-[PID 9579] Entered syscall: 17
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 3
-[PID 9579] Entered syscall: 257
-[PID 9579] Entered syscall: 0
-[PID 9579] Entered syscall: 5
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 3
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 158
-[PID 9579] Entered syscall: 218
-[PID 9579] Entered syscall: 273
-[PID 9579] Entered syscall: 334
-[PID 9579] Entered syscall: 10
-[PID 9579] Entered syscall: 10
-[PID 9579] Entered syscall: 10
-[PID 9579] Entered syscall: 10
-[PID 9579] Entered syscall: 10
-[PID 9579] Entered syscall: 302
-[PID 9579] Entered syscall: 11
-[PID 9579] Entered syscall: 137
-[PID 9579] Entered syscall: 137
-[PID 9579] Entered syscall: 318
-[PID 9579] Entered syscall: 12
-[PID 9579] Entered syscall: 12
-[PID 9579] Entered syscall: 257
-[PID 9579] Entered syscall: 5
-[PID 9579] Entered syscall: 0
-[PID 9579] Entered syscall: 0
-[PID 9579] Entered syscall: 3
-[PID 9579] Entered syscall: 21
-[PID 9579] Entered syscall: 257
-[PID 9579] Entered syscall: 5
-[PID 9579] Entered syscall: 9
-[PID 9579] Entered syscall: 3
-[PID 9579] Entered syscall: 16
-[PID 9579] Entered syscall: 16
-[PID 9579] Entered syscall: 257
-[PID 9579] Entered syscall: 5
-[PID 9579] Entered syscall: 217
-[PID 9579] Entered syscall: 217
-[PID 9579] Entered syscall: 3
-[PID 9579] Entered syscall: 5
-[PID 9579] Entered syscall: 1
-[PID 9579] Entered syscall: 3
-[PID 9579] Entered syscall: 3
-[PID 9612] Entered syscall: 219
-[PID 9612] Entered syscall: 59
-[PID 9612] Entered syscall: 59
-[PID 9612] Entered syscall: 59
-[PID 9612] Entered syscall: 59
-[PID 9612] Entered syscall: 59
-[PID 9612] Entered syscall: 59
-[PID 9612] Entered syscall: 12
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 21
-[PID 9612] Entered syscall: 257
-[PID 9612] Entered syscall: 5
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 3
-[PID 9612] Entered syscall: 257
-[PID 9612] Entered syscall: 0
-[PID 9612] Entered syscall: 5
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 3
-[PID 9612] Entered syscall: 257
-[PID 9612] Entered syscall: 0
-[PID 9612] Entered syscall: 17
-[PID 9612] Entered syscall: 5
-[PID 9612] Entered syscall: 17
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 3
-[PID 9612] Entered syscall: 257
-[PID 9612] Entered syscall: 0
-[PID 9612] Entered syscall: 5
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 3
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 158
-[PID 9612] Entered syscall: 218
-[PID 9612] Entered syscall: 273
-[PID 9612] Entered syscall: 334
-[PID 9612] Entered syscall: 10
-[PID 9612] Entered syscall: 10
-[PID 9612] Entered syscall: 10
-[PID 9612] Entered syscall: 10
-[PID 9612] Entered syscall: 10
-[PID 9612] Entered syscall: 302
-[PID 9612] Entered syscall: 11
-[PID 9612] Entered syscall: 137
-[PID 9612] Entered syscall: 137
-[PID 9612] Entered syscall: 318
-[PID 9612] Entered syscall: 12
-[PID 9612] Entered syscall: 12
-[PID 9612] Entered syscall: 257
-[PID 9612] Entered syscall: 5
-[PID 9612] Entered syscall: 0
-[PID 9612] Entered syscall: 0
-[PID 9612] Entered syscall: 3
-[PID 9612] Entered syscall: 21
-[PID 9612] Entered syscall: 257
-[PID 9612] Entered syscall: 5
-[PID 9612] Entered syscall: 9
-[PID 9612] Entered syscall: 3
-[PID 9612] Entered syscall: 16
-[PID 9612] Entered syscall: 16
-[PID 9612] Entered syscall: 257
-[PID 9612] Entered syscall: 5
-[PID 9612] Entered syscall: 217
-[PID 9612] Entered syscall: 217
-[PID 9612] Entered syscall: 3
-[PID 9612] Entered syscall: 5
-[PID 9612] Entered syscall: 1
-[PID 9612] Entered syscall: 3
-[PID 9612] Entered syscall: 3
-[PID 9612] Entered syscall: 231
-[PID 12049] Entered syscall: 219
-[PID 12049] Entered syscall: 59
-[PID 12049] Entered syscall: 59
-[PID 12049] Entered syscall: 59
-[PID 12049] Entered syscall: 59
-[PID 12049] Entered syscall: 59
-[PID 12049] Entered syscall: 12
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 21
-[PID 12049] Entered syscall: 257
-[PID 12049] Entered syscall: 5
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 3
-[PID 12049] Entered syscall: 257
-[PID 12049] Entered syscall: 0
-[PID 12049] Entered syscall: 5
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 3
-[PID 12049] Entered syscall: 257
-[PID 12049] Entered syscall: 0
-[PID 12049] Entered syscall: 17
-[PID 12049] Entered syscall: 5
-[PID 12049] Entered syscall: 17
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 3
-[PID 12049] Entered syscall: 257
-[PID 12049] Entered syscall: 0
-[PID 12049] Entered syscall: 5
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 3
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 158
-[PID 12049] Entered syscall: 218
-[PID 12049] Entered syscall: 273
-[PID 12049] Entered syscall: 334
-[PID 12049] Entered syscall: 10
-[PID 12049] Entered syscall: 10
-[PID 12049] Entered syscall: 10
-[PID 12049] Entered syscall: 10
-[PID 12049] Entered syscall: 10
-[PID 12049] Entered syscall: 302
-[PID 12049] Entered syscall: 11
-[PID 12049] Entered syscall: 137
-[PID 12049] Entered syscall: 137
-[PID 12049] Entered syscall: 318
-[PID 12049] Entered syscall: 12
-[PID 12049] Entered syscall: 12
-[PID 12049] Entered syscall: 257
-[PID 12049] Entered syscall: 5
-[PID 12049] Entered syscall: 0
-[PID 12049] Entered syscall: 0
-[PID 12049] Entered syscall: 3
-[PID 12049] Entered syscall: 21
-[PID 12049] Entered syscall: 257
-[PID 12049] Entered syscall: 5
-[PID 12049] Entered syscall: 9
-[PID 12049] Entered syscall: 3
-[PID 12049] Entered syscall: 16
-[PID 12049] Entered syscall: 16
-[PID 12049] Entered syscall: 257
-[PID 12049] Entered syscall: 5
-[PID 12049] Entered syscall: 217
-[PID 12049] Entered syscall: 217
-[PID 12049] Entered syscall: 3
-[PID 12049] Entered syscall: 5
-[PID 12049] Entered syscall: 1
-[PID 12049] Entered syscall: 3
-[PID 12049] Entered syscall: 3
-[PID 12049] Entered syscall: 231
-[PID 12391] Entered syscall: 59
-[PID 12391] Entered syscall: 12
-[PID 12391] Entered syscall: 9
-[PID 12391] Entered syscall: 21
-[PID 12391] Entered syscall: 257
-[PID 12391] Entered syscall: 5
-[PID 12391] Entered syscall: 9
-[PID 12391] Entered syscall: 3
-[PID 12391] Entered syscall: 257
-[PID 12391] Entered syscall: 0
-[PID 12391] Entered syscall: 17
-[PID 12391] Entered syscall: 5
-[PID 12391] Entered syscall: 17
-[PID 12391] Entered syscall: 9
-[PID 12391] Entered syscall: 9
-[PID 12391] Entered syscall: 9
-[PID 12391] Entered syscall: 9
-[PID 12391] Entered syscall: 9
-[PID 12391] Entered syscall: 3
-[PID 12391] Entered syscall: 9
-[PID 12391] Entered syscall: 158
-[PID 12391] Entered syscall: 218
-[PID 12391] Entered syscall: 273
-[PID 12391] Entered syscall: 334
-[PID 12391] Entered syscall: 10
-[PID 12391] Entered syscall: 10
-[PID 12391] Entered syscall: 10
-[PID 12391] Entered syscall: 302
-[PID 12391] Entered syscall: 11
-[PID 12391] Entered syscall: 318
-[PID 12391] Entered syscall: 12
-[PID 12391] Entered syscall: 12
-[PID 12391] Entered syscall: 257
-[PID 12391] Entered syscall: 5
-[PID 12391] Entered syscall: 9
-[PID 12391] Entered syscall: 3
-[PID 12391] Entered syscall: 79
-[PID 12391] Entered syscall: 5
-[PID 12391] Entered syscall: 1
-[PID 12391] Entered syscall: 3
-[PID 12391] Entered syscall: 3
+PID    | SYSCALL_NAME   | RETURN_VALUE | ELAPSED_TIME (s)
+-------|----------------|--------------|-------------
+11992  | unknown          | 0            | 3.236161
+11992  | rt_sigprocmask   | 0            | 3.236547
+11992  | ioctl            | 0            | 3.236715
+11992  | rt_sigprocmask   | 0            | 3.236916
+11992  | ioctl            | 0            | 3.237054
+11992  | ioctl            | 0            | 3.237235
+11992  | rt_sigprocmask   | 0            | 3.237434
+11992  | rt_sigprocmask   | 0            | 3.237608
+11992  | rt_sigaction     | 0            | 3.237806
+11992  | rt_sigprocmask   | 0            | 3.237938
+11992  | ioctl            | 0            | 3.238074
+11992  | rt_sigprocmask   | 0            | 3.238199
+11992  | rt_sigaction     | 0            | 3.238326
+11992  | unknown          | 0            | 3.238557
+11992  | ioctl            | 0            | 3.238670
+11992  | ioctl            | 0            | 3.238787
+11992  | ioctl            | 0            | 3.238944
+11992  | ioctl            | 0            | 3.239122
+11992  | ioctl            | 0            | 3.239281
+11992  | ioctl            | 0            | 3.239413
+11992  | write            | 0            | 3.239542
+11992  | rt_sigprocmask   | 0            | 3.239708
+11992  | rt_sigaction     | 0            | 3.239905
+11992  | rt_sigaction     | 0            | 3.240044
+11992  | rt_sigaction     | 0            | 3.240245
+11992  | rt_sigaction     | 0            | 3.240418
+11992  | rt_sigaction     | 0            | 3.240587
+11992  | rt_sigaction     | 0            | 3.240807
+11992  | rt_sigaction     | 0            | 3.240998
+11992  | rt_sigaction     | 0            | 3.241138
+11992  | rt_sigaction     | 0            | 3.241347
+11992  | rt_sigaction     | 0            | 3.241587
+11992  | rt_sigaction     | 0            | 3.241746
+11992  | rt_sigaction     | 0            | 3.241949
+11992  | rt_sigaction     | 0            | 3.242142
+11992  | rt_sigprocmask   | 0            | 3.242377
+11992  | rt_sigaction     | 0            | 3.242566
+11992  | write            | 0            | 3.242866
+11992  | unknown          | 0            | 2.243258
+11992  | rt_sigprocmask   | 0            | 2.243550
+11992  | ioctl            | 0            | 2.243799
+11992  | rt_sigprocmask   | 0            | 2.243947
+11992  | ioctl            | 0            | 2.244096
+11992  | ioctl            | 0            | 2.244263
+11992  | rt_sigprocmask   | 0            | 2.244435
+11992  | rt_sigprocmask   | 0            | 2.244573
+11992  | rt_sigaction     | 0            | 2.244791
+11992  | rt_sigprocmask   | 0            | 2.244916
+11992  | ioctl            | 0            | 2.245043
+11992  | rt_sigprocmask   | 0            | 2.245177
+11992  | rt_sigaction     | 0            | 2.245293
+11992  | unknown          | 0            | 2.245553
+11992  | ioctl            | 0            | 2.245686
+11992  | ioctl            | 0            | 2.245816
+11992  | ioctl            | 0            | 2.245948
+11992  | ioctl            | 0            | 2.246108
+11992  | ioctl            | 0            | 2.246275
+11992  | ioctl            | 0            | 2.246459
+11992  | write            | 0            | 2.246606
+11992  | rt_sigprocmask   | 0            | 2.246723
+11992  | rt_sigaction     | 0            | 2.246848
+11992  | rt_sigaction     | 0            | 2.246978
+11992  | rt_sigaction     | 0            | 2.247108
+11992  | rt_sigaction     | 0            | 2.247234
+11992  | rt_sigaction     | 0            | 2.247358
+11992  | rt_sigaction     | 0            | 2.247491
+11992  | rt_sigaction     | 0            | 2.247641
+11992  | rt_sigaction     | 0            | 2.247768
+11992  | rt_sigaction     | 0            | 2.247888
+11992  | rt_sigaction     | 0            | 2.248014
+11992  | rt_sigaction     | 0            | 2.248150
+11992  | rt_sigaction     | 0            | 2.248280
+11992  | rt_sigaction     | 0            | 2.248393
+11992  | rt_sigprocmask   | 0            | 2.248532
+11992  | rt_sigaction     | 0            | 2.248681
+11992  | write            | 0            | 2.248838
+11992  | unknown          | 0            | 5.753298
+11992  | rt_sigprocmask   | 0            | 5.753645
+11992  | ioctl            | 0            | 5.753788
+11992  | rt_sigprocmask   | 0            | 5.753952
+11992  | ioctl            | 0            | 5.754076
+11992  | ioctl            | 0            | 5.754197
+11992  | rt_sigprocmask   | 0            | 5.754349
+11992  | rt_sigprocmask   | 0            | 5.754518
+11992  | rt_sigaction     | 0            | 5.754750
+11992  | rt_sigprocmask   | 0            | 5.754892
+11992  | ioctl            | 0            | 5.755069
+11992  | rt_sigprocmask   | 0            | 5.755233
+11992  | rt_sigaction     | 0            | 5.755408
+11992  | unknown          | 0            | 5.755654
+11992  | ioctl            | 0            | 5.755812
+11992  | ioctl            | 0            | 5.755955
+11992  | ioctl            | 0            | 5.756140
+11992  | ioctl            | 0            | 5.756285
+11992  | ioctl            | 0            | 5.756465
+11992  | ioctl            | 0            | 5.756661
+11992  | write            | 0            | 5.756799
+11992  | rt_sigprocmask   | 0            | 5.756918
+11992  | rt_sigaction     | 0            | 5.757029
+11992  | rt_sigaction     | 0            | 5.757158
+11992  | rt_sigaction     | 0            | 5.757304
+11992  | rt_sigaction     | 0            | 5.757466
+11992  | rt_sigaction     | 0            | 5.757586
+11992  | rt_sigaction     | 0            | 5.757715
+11992  | rt_sigaction     | 0            | 5.757837
+11992  | rt_sigaction     | 0            | 5.757967
+11992  | rt_sigaction     | 0            | 5.758129
+11992  | rt_sigaction     | 0            | 5.758253
+11992  | rt_sigaction     | 0            | 5.758398
+11992  | rt_sigaction     | 0            | 5.758512
+11992  | rt_sigaction     | 0            | 5.758624
+11992  | rt_sigprocmask   | 0            | 5.758732
+11992  | rt_sigaction     | 0            | 5.758847
+11992  | write            | 0            | 5.758977
+17032  | execve           | 12           | 0.001228
+17032  | brk              | 9            | 0.001491
+17032  | mmap             | 21           | 0.001659
+17032  | access           | 257          | 0.001780
+17032  | openat           | 5            | 0.001919
+17032  | fstat            | 9            | 0.002043
+17032  | mmap             | 3            | 0.002200
+17032  | close            | 257          | 0.002317
+17032  | openat           | 0            | 0.002423
+17032  | read             | 5            | 0.002536
+17032  | fstat            | 9            | 0.002633
+17032  | mmap             | 9            | 0.002740
+17032  | mmap             | 9            | 0.002861
+17032  | mmap             | 9            | 0.003000
+17032  | mmap             | 9            | 0.003148
+17032  | mmap             | 3            | 0.003281
+17032  | close            | 257          | 0.003408
+17032  | openat           | 0            | 0.003508
+17032  | read             | 17           | 0.003631
+17032  | unknown          | 5            | 0.003736
+17032  | fstat            | 17           | 0.003820
+17032  | unknown          | 9            | 0.003901
+17032  | mmap             | 9            | 0.004028
+17032  | mmap             | 9            | 0.004129
+17032  | mmap             | 9            | 0.004223
+17032  | mmap             | 9            | 0.004387
+17032  | mmap             | 3            | 0.004591
+17032  | close            | 257          | 0.004849
+17032  | openat           | 0            | 0.005000
+17032  | read             | 5            | 0.005166
+17032  | fstat            | 9            | 0.005368
+17032  | mmap             | 9            | 0.005557
+17032  | mmap             | 9            | 0.005872
+17032  | mmap             | 9            | 0.006096
+17032  | mmap             | 3            | 0.006342
+17032  | close            | 9            | 0.006625
+17032  | mmap             | 158          | 0.006843
+17032  | unknown          | 218          | 0.007145
+17032  | set_tid_address  | 273          | 0.007331
+17032  | unknown          | 334          | 0.007419
+17032  | unknown          | 10           | 0.007633
+17032  | mprotect         | 10           | 0.007799
+17032  | mprotect         | 10           | 0.007994
+17032  | mprotect         | 10           | 0.008225
+17032  | mprotect         | 10           | 0.008405
+17032  | mprotect         | 302          | 0.008525
+17032  | unknown          | 11           | 0.008744
+17032  | munmap           | 137          | 0.008903
+17032  | unknown          | 137          | 0.009093
+17032  | unknown          | 318          | 0.009306
+17032  | getrandom        | 12           | 0.009453
+17032  | brk              | 12           | 0.009556
+17032  | brk              | 257          | 0.009700
+17032  | openat           | 5            | 0.009881
+17032  | fstat            | 0            | 0.010037
+17032  | read             | 0            | 0.010175
+17032  | read             | 3            | 0.010281
+17032  | close            | 21           | 0.010385
+17032  | access           | 257          | 0.010526
+17032  | openat           | 5            | 0.010766
+17032  | fstat            | 9            | 0.010950
+17032  | mmap             | 3            | 0.011103
+17032  | close            | 16           | 0.011355
+17032  | ioctl            | 16           | 0.011626
+17032  | ioctl            | 257          | 0.012150
+17032  | openat           | 5            | 0.012661
+17032  | fstat            | 217          | 0.012907
+17032  | unknown          | 217          | 0.013149
+17032  | unknown          | 3            | 0.013243
+17032  | close            | 5            | 0.013507
+17032  | fstat            | 1            | 0.013633
+17032  | write            | 1            | 0.013793
+17032  | write            | 1            | 0.013907
+17032  | write            | 3            | 0.014084
+17032  | close            | 3            | 0.014189
+17032  | close            | 231          | 0.014324
+17037  | execve           | 12           | 0.001064
+17037  | brk              | 9            | 0.001303
+17037  | mmap             | 21           | 0.001460
+17037  | access           | 257          | 0.001557
+17037  | openat           | 5            | 0.001654
+17037  | fstat            | 9            | 0.001767
+17037  | mmap             | 3            | 0.001905
+17037  | close            | 257          | 0.002020
+17037  | openat           | 0            | 0.002123
+17037  | read             | 5            | 0.002214
+17037  | fstat            | 9            | 0.002332
+17037  | mmap             | 9            | 0.002448
+17037  | mmap             | 9            | 0.002566
+17037  | mmap             | 9            | 0.002682
+17037  | mmap             | 9            | 0.002864
+17037  | mmap             | 3            | 0.003033
+17037  | close            | 257          | 0.003181
+17037  | openat           | 0            | 0.003279
+17037  | read             | 17           | 0.003384
+17037  | unknown          | 5            | 0.003468
+17037  | fstat            | 17           | 0.003550
+17037  | unknown          | 9            | 0.003651
+17037  | mmap             | 9            | 0.003741
+17037  | mmap             | 9            | 0.003852
+17037  | mmap             | 9            | 0.003948
+17037  | mmap             | 9            | 0.004097
+17037  | mmap             | 3            | 0.004205
+17037  | close            | 257          | 0.004295
+17037  | openat           | 0            | 0.004406
+17037  | read             | 5            | 0.004495
+17037  | fstat            | 9            | 0.004594
+17037  | mmap             | 9            | 0.004694
+17037  | mmap             | 9            | 0.004824
+17037  | mmap             | 9            | 0.004922
+17037  | mmap             | 3            | 0.005044
+17037  | close            | 9            | 0.005143
+17037  | mmap             | 158          | 0.005248
+17037  | unknown          | 218          | 0.005334
+17037  | set_tid_address  | 273          | 0.005413
+17037  | unknown          | 334          | 0.005513
+17037  | unknown          | 10           | 0.005684
+17037  | mprotect         | 10           | 0.005780
+17037  | mprotect         | 10           | 0.005978
+17037  | mprotect         | 10           | 0.006120
+17037  | mprotect         | 10           | 0.006222
+17037  | mprotect         | 302          | 0.006360
+17037  | unknown          | 11           | 0.006457
+17037  | munmap           | 137          | 0.006574
+17037  | unknown          | 137          | 0.006669
+17037  | unknown          | 318          | 0.006761
+17037  | getrandom        | 12           | 0.006854
+17037  | brk              | 12           | 0.006929
+17037  | brk              | 257          | 0.007018
+17037  | openat           | 5            | 0.007116
+17037  | fstat            | 0            | 0.007194
+17037  | read             | 0            | 0.007288
+17037  | read             | 3            | 0.007363
+17037  | close            | 21           | 0.007442
+17037  | access           | 257          | 0.007553
+17037  | openat           | 5            | 0.007635
+17037  | fstat            | 9            | 0.007708
+17037  | mmap             | 3            | 0.007817
+17037  | close            | 16           | 0.007946
+17037  | ioctl            | 16           | 0.008022
+17037  | ioctl            | 257          | 0.008114
+17037  | openat           | 5            | 0.008190
+17037  | fstat            | 217          | 0.008266
+17037  | unknown          | 217          | 0.008378
+17037  | unknown          | 3            | 0.008451
+17037  | close            | 5            | 0.008567
+17037  | fstat            | 1            | 0.008648
+17037  | write            | 1            | 0.008760
+17037  | write            | 1            | 0.008863
+17037  | write            | 3            | 0.008961
+17037  | close            | 3            | 0.009036
+17037  | close            | 231          | 0.009174
+11992  | unknown          | 0            | 4.239529
+11992  | rt_sigprocmask   | 0            | 4.239801
+11992  | ioctl            | 0            | 4.240039
+11992  | rt_sigprocmask   | 0            | 4.240201
+11992  | ioctl            | 0            | 4.240475
+11992  | ioctl            | 0            | 4.240600
+11992  | rt_sigprocmask   | 0            | 4.240759
+11992  | rt_sigprocmask   | 0            | 4.240988
+11992  | rt_sigaction     | 0            | 4.241307
+11992  | rt_sigprocmask   | 0            | 4.241467
+11992  | ioctl            | 0            | 4.241642
+11992  | rt_sigprocmask   | 0            | 4.241768
+11992  | rt_sigaction     | 0            | 4.241933
+11992  | unknown          | 0            | 4.242334
+11992  | ioctl            | 0            | 4.242523
+11992  | ioctl            | 0            | 4.242659
+11992  | ioctl            | 0            | 4.242792
+11992  | ioctl            | 0            | 4.242922
+11992  | ioctl            | 0            | 4.243058
+11992  | ioctl            | 0            | 4.243204
+11992  | write            | 0            | 4.243376
+11992  | rt_sigprocmask   | 0            | 4.243552
+11992  | rt_sigaction     | 0            | 4.243699
+11992  | rt_sigaction     | 0            | 4.244004
+11992  | rt_sigaction     | 0            | 4.244124
+11992  | rt_sigaction     | 0            | 4.244249
+11992  | rt_sigaction     | 0            | 4.244377
+11992  | rt_sigaction     | 0            | 4.244492
+11992  | rt_sigaction     | 0            | 4.244602
+11992  | rt_sigaction     | 0            | 4.244717
+11992  | rt_sigaction     | 0            | 4.244826
+11992  | rt_sigaction     | 0            | 4.244963
+11992  | rt_sigaction     | 0            | 4.245168
+11992  | rt_sigaction     | 0            | 4.245277
+11992  | rt_sigaction     | 0            | 4.245399
+11992  | rt_sigprocmask   | 0            | 4.245514
+11992  | rt_sigaction     | 0            | 4.245636
+11992  | write            | 0            | 4.245804
+17089  | unknown          | 0            | 2.672358
+17089  | execve           | 0            | 2.672930
+17089  | execve           | 0            | 2.673476
+17089  | execve           | 0            | 2.673984
+17089  | execve           | 0            | 2.674288
+17089  | execve           | 0            | 2.675541
+17089  | execve           | 0            | 2.675921
+17089  | brk              | 0            | 2.676232
+17089  | mmap             | 0            | 2.676723
+17089  | access           | 0            | 2.677054
+17089  | openat           | 0            | 2.677466
+17089  | fstat            | 0            | 2.677656
+17089  | mmap             | 0            | 2.677889
+17089  | close            | 0            | 2.678213
+17089  | openat           | 0            | 2.678433
+17089  | read             | 0            | 2.678613
+17089  | fstat            | 0            | 2.678838
+17089  | mmap             | 0            | 2.679133
+17089  | mmap             | 0            | 2.679372
+17089  | mmap             | 0            | 2.679641
+17089  | mmap             | 0            | 2.679975
+17089  | mmap             | 0            | 2.680296
+17089  | close            | 0            | 2.680546
+17089  | openat           | 0            | 2.680753
+17089  | read             | 0            | 2.680933
+17089  | unknown          | 0            | 2.681178
+17089  | unknown          | 0            | 2.681605
+17089  | mmap             | 0            | 2.681955
+17089  | mmap             | 0            | 2.682294
+17089  | mmap             | 0            | 2.682635
+17089  | mmap             | 0            | 2.682904
+17089  | mmap             | 0            | 2.683161
+17089  | close            | 0            | 2.683424
+17089  | openat           | 0            | 2.683662
+17089  | read             | 0            | 2.683961
+17089  | fstat            | 0            | 2.684241
+17089  | mmap             | 0            | 2.684503
+17089  | mmap             | 0            | 2.684745
+17089  | mmap             | 0            | 2.685088
+17089  | mmap             | 0            | 2.685363
+17089  | close            | 0            | 2.685706
+17089  | mmap             | 0            | 2.686182
+17089  | unknown          | 0            | 2.686491
+17089  | set_tid_address  | 0            | 2.686768
+17089  | unknown          | 0            | 2.687123
+17089  | unknown          | 0            | 2.687432
+17089  | mprotect         | 0            | 2.687899
+17089  | mprotect         | 0            | 2.688138
+17089  | mprotect         | 0            | 2.688515
+17089  | mprotect         | 0            | 2.689120
+17089  | mprotect         | 0            | 2.689813
+17089  | unknown          | 0            | 2.690408
+17089  | munmap           | 0            | 2.690824
+17089  | unknown          | 0            | 2.691378
+17089  | unknown          | 0            | 2.691585
+17089  | getrandom        | 0            | 2.691808
+17089  | brk              | 0            | 2.692015
+17089  | brk              | 0            | 2.692244
+17089  | openat           | 0            | 2.692581
+17089  | fstat            | 0            | 2.692907
+17089  | read             | 0            | 2.693482
+17089  | read             | 0            | 2.693797
+17089  | close            | 0            | 2.694101
+17089  | access           | 0            | 2.694405
+17089  | openat           | 0            | 2.694791
+17089  | fstat            | 0            | 2.695121
+17089  | mmap             | 0            | 2.695467
+17089  | close            | 0            | 2.695898
+17089  | ioctl            | 0            | 2.696285
+17089  | ioctl            | 0            | 2.696518
+17089  | openat           | 0            | 2.696798
+17089  | fstat            | 0            | 2.697046
+17089  | unknown          | 0            | 2.697315
+17089  | unknown          | 0            | 2.697561
+17089  | close            | 0            | 2.697758
+17089  | fstat            | 0            | 2.698003
+17089  | write            | 0            | 2.698225
+17089  | write            | 0            | 2.698395
+17089  | write            | 0            | 2.698570
+17089  | close            | 0            | 2.698809
+17089  | close            | 0            | 2.699012
+17132  | execve           | 12           | 0.000928
+17132  | brk              | 9            | 0.001182
+17132  | mmap             | 21           | 0.001347
+17132  | access           | 257          | 0.001526
+17132  | openat           | 5            | 0.001681
+17132  | fstat            | 9            | 0.001825
+17132  | mmap             | 3            | 0.001929
+17132  | close            | 257          | 0.002054
+17132  | openat           | 0            | 0.002199
+17132  | read             | 5            | 0.002309
+17132  | fstat            | 9            | 0.002401
+17132  | mmap             | 9            | 0.002519
+17132  | mmap             | 9            | 0.002629
+17132  | mmap             | 9            | 0.002745
+17132  | mmap             | 9            | 0.002885
+17132  | mmap             | 3            | 0.003006
+17132  | close            | 257          | 0.003093
+17132  | openat           | 0            | 0.003209
+17132  | read             | 17           | 0.003308
+17132  | unknown          | 5            | 0.003390
+17132  | fstat            | 17           | 0.003474
+17132  | unknown          | 9            | 0.003554
+17132  | mmap             | 9            | 0.003640
+17132  | mmap             | 9            | 0.003733
+17132  | mmap             | 9            | 0.003822
+17132  | mmap             | 9            | 0.003923
+17132  | mmap             | 3            | 0.004031
+17132  | close            | 257          | 0.004128
+17132  | openat           | 0            | 0.004226
+17132  | read             | 5            | 0.004393
+17132  | fstat            | 9            | 0.004472
+17132  | mmap             | 9            | 0.004569
+17132  | mmap             | 9            | 0.004667
+17132  | mmap             | 9            | 0.004753
+17132  | mmap             | 3            | 0.004862
+17132  | close            | 9            | 0.004945
+17132  | mmap             | 158          | 0.005039
+17132  | unknown          | 218          | 0.005152
+17132  | set_tid_address  | 273          | 0.005236
+17132  | unknown          | 334          | 0.005307
+17132  | unknown          | 10           | 0.005460
+17132  | mprotect         | 10           | 0.005543
+17132  | mprotect         | 10           | 0.005681
+17132  | mprotect         | 10           | 0.005797
+17132  | mprotect         | 10           | 0.005879
+17132  | mprotect         | 302          | 0.005985
+17132  | unknown          | 11           | 0.006070
+17132  | munmap           | 137          | 0.006203
+17132  | unknown          | 137          | 0.006285
+17132  | unknown          | 318          | 0.006368
+17132  | getrandom        | 12           | 0.006444
+17132  | brk              | 12           | 0.006516
+17132  | brk              | 257          | 0.006607
+17132  | openat           | 5            | 0.006693
+17132  | fstat            | 0            | 0.006770
+17132  | read             | 0            | 0.006861
+17132  | read             | 3            | 0.006933
+17132  | close            | 21           | 0.007010
+17132  | access           | 257          | 0.007133
+17132  | openat           | 5            | 0.007209
+17132  | fstat            | 9            | 0.007290
+17132  | mmap             | 3            | 0.007386
+17132  | close            | 16           | 0.007520
+17132  | ioctl            | 16           | 0.007592
+17132  | ioctl            | 257          | 0.007688
+17132  | openat           | 5            | 0.007798
+17132  | fstat            | 217          | 0.007907
+17132  | unknown          | 217          | 0.008055
+17132  | unknown          | 3            | 0.008135
+17132  | close            | 5            | 0.008301
+17132  | fstat            | 1            | 0.008397
+17132  | write            | 1            | 0.008509
+17132  | write            | 1            | 0.008646
+17132  | write            | 3            | 0.008838
+17132  | close            | 3            | 0.008924
+17132  | close            | 231          | 0.009039
+17147  | execve           | 12           | 0.001013
+17147  | brk              | 9            | 0.001290
+17147  | mmap             | 21           | 0.001450
+17147  | access           | 257          | 0.001609
+17147  | openat           | 5            | 0.001736
+17147  | fstat            | 9            | 0.001853
+17147  | mmap             | 3            | 0.001972
+17147  | close            | 257          | 0.002138
+17147  | openat           | 0            | 0.002249
+17147  | read             | 5            | 0.002368
+17147  | fstat            | 9            | 0.002476
+17147  | mmap             | 9            | 0.002587
+17147  | mmap             | 9            | 0.002747
+17147  | mmap             | 9            | 0.002846
+17147  | mmap             | 9            | 0.002979
+17147  | mmap             | 3            | 0.003098
+17147  | close            | 257          | 0.003198
+17147  | openat           | 0            | 0.003309
+17147  | read             | 17           | 0.003411
+17147  | unknown          | 5            | 0.003540
+17147  | fstat            | 17           | 0.003693
+17147  | unknown          | 9            | 0.003835
+17147  | mmap             | 9            | 0.003986
+17147  | mmap             | 9            | 0.004178
+17147  | mmap             | 9            | 0.004273
+17147  | mmap             | 9            | 0.004380
+17147  | mmap             | 3            | 0.004489
+17147  | close            | 257          | 0.004615
+17147  | openat           | 0            | 0.004699
+17147  | read             | 5            | 0.004790
+17147  | fstat            | 9            | 0.004877
+17147  | mmap             | 9            | 0.005006
+17147  | mmap             | 9            | 0.005109
+17147  | mmap             | 9            | 0.005209
+17147  | mmap             | 3            | 0.005324
+17147  | close            | 9            | 0.005420
+17147  | mmap             | 158          | 0.005516
+17147  | unknown          | 218          | 0.005593
+17147  | set_tid_address  | 273          | 0.005670
+17147  | unknown          | 334          | 0.005752
+17147  | unknown          | 10           | 0.005915
+17147  | mprotect         | 10           | 0.006005
+17147  | mprotect         | 10           | 0.006154
+17147  | mprotect         | 10           | 0.006281
+17147  | mprotect         | 10           | 0.006371
+17147  | mprotect         | 302          | 0.006479
+17147  | unknown          | 11           | 0.006567
+17147  | munmap           | 137          | 0.006697
+17147  | unknown          | 137          | 0.006784
+17147  | unknown          | 318          | 0.006873
+17147  | getrandom        | 12           | 0.006951
+17147  | brk              | 12           | 0.007031
+17147  | brk              | 257          | 0.007136
+17147  | openat           | 5            | 0.007231
+17147  | fstat            | 0            | 0.007307
+17147  | read             | 0            | 0.007398
+17147  | read             | 3            | 0.007477
+17147  | close            | 21           | 0.007560
+17147  | access           | 257          | 0.007666
+17147  | openat           | 5            | 0.007756
+17147  | fstat            | 9            | 0.007840
+17147  | mmap             | 3            | 0.007930
+17147  | close            | 16           | 0.008078
+17147  | ioctl            | 16           | 0.008170
+17147  | ioctl            | 257          | 0.008267
+17147  | openat           | 5            | 0.008349
+17147  | fstat            | 217          | 0.008427
+17147  | unknown          | 217          | 0.008547
+17147  | unknown          | 3            | 0.008621
+17147  | close            | 5            | 0.008740
+17147  | fstat            | 1            | 0.008814
+17147  | write            | 1            | 0.008901
+17147  | write            | 1            | 0.009001
+17147  | write            | 3            | 0.009124
+17147  | close            | 3            | 0.009203
+17147  | close            | 231          | 0.009320
+17200  | execve           | 12           | 0.001329
+17200  | brk              | 9            | 0.001567
+17200  | mmap             | 21           | 0.001703
+17200  | access           | 257          | 0.001949
+17200  | openat           | 5            | 0.002068
+17200  | fstat            | 9            | 0.002175
+17200  | mmap             | 3            | 0.002321
+17200  | close            | 257          | 0.002457
+17200  | openat           | 0            | 0.002553
+17200  | read             | 5            | 0.002654
+17200  | fstat            | 9            | 0.002789
+17200  | mmap             | 9            | 0.002921
+17200  | mmap             | 9            | 0.003042
+17200  | mmap             | 9            | 0.003250
+17200  | mmap             | 9            | 0.003492
+17200  | mmap             | 3            | 0.003679
+17200  | close            | 257          | 0.003867
+17200  | openat           | 0            | 0.004045
+17200  | read             | 17           | 0.004216
+17200  | unknown          | 5            | 0.004368
+17200  | fstat            | 17           | 0.004471
+17200  | unknown          | 9            | 0.004616
+17200  | mmap             | 9            | 0.004832
+17200  | mmap             | 9            | 0.005054
+17200  | mmap             | 9            | 0.005206
+17200  | mmap             | 9            | 0.005398
+17200  | mmap             | 3            | 0.005605
+17200  | close            | 257          | 0.005840
+17200  | openat           | 0            | 0.006012
+17200  | read             | 5            | 0.006157
+17200  | fstat            | 9            | 0.006304
+17200  | mmap             | 9            | 0.006532
+17200  | mmap             | 9            | 0.006660
+17200  | mmap             | 9            | 0.006763
+17200  | mmap             | 3            | 0.006917
+17200  | close            | 9            | 0.007119
+17200  | mmap             | 158          | 0.008001
+17200  | unknown          | 218          | 0.008356
+17200  | set_tid_address  | 273          | 0.008486
+17200  | unknown          | 334          | 0.008576
+17200  | unknown          | 10           | 0.008854
+17200  | mprotect         | 10           | 0.008986
+17200  | mprotect         | 10           | 0.009164
+17200  | mprotect         | 10           | 0.009351
+17200  | mprotect         | 10           | 0.009466
+17200  | mprotect         | 302          | 0.009605
+17200  | unknown          | 11           | 0.009753
+17200  | munmap           | 137          | 0.009905
+17200  | unknown          | 137          | 0.010005
+17200  | unknown          | 318          | 0.010101
+17200  | getrandom        | 12           | 0.010186
+17200  | brk              | 12           | 0.010268
+17200  | brk              | 257          | 0.010374
+17200  | openat           | 5            | 0.010469
+17200  | fstat            | 0            | 0.010553
+17200  | read             | 0            | 0.010660
+17200  | read             | 3            | 0.010741
+17200  | close            | 21           | 0.010873
+17200  | access           | 257          | 0.011064
+17200  | openat           | 5            | 0.011885
+17200  | fstat            | 9            | 0.011997
+17200  | mmap             | 3            | 0.012149
+17200  | close            | 16           | 0.012346
+17200  | ioctl            | 16           | 0.012442
+17200  | ioctl            | 257          | 0.012581
+17200  | openat           | 5            | 0.012681
+17200  | fstat            | 217          | 0.012810
+17200  | unknown          | 217          | 0.013087
+17200  | unknown          | 3            | 0.013274
+17200  | close            | 5            | 0.013524
+17200  | fstat            | 1            | 0.013682
+17200  | write            | 1            | 0.013884
+17200  | write            | 1            | 0.014085
+17200  | write            | 3            | 0.014312
+17200  | close            | 3            | 0.014466
+17200  | close            | 231          | 0.014719
+20719  | execve           | 12           | 0.034854
+20719  | brk              | 9            | 0.047437
+20719  | mmap             | 21           | 0.047803
+20719  | access           | 257          | 0.048055
+20719  | openat           | 5            | 0.048272
+20719  | fstat            | 9            | 0.048469
+20719  | mmap             | 3            | 0.048671
+20719  | close            | 257          | 0.048895
+20719  | openat           | 0            | 0.049096
+20719  | read             | 17           | 0.049556
+20719  | unknown          | 5            | 0.049823
+20719  | fstat            | 17           | 0.050038
+20719  | unknown          | 9            | 0.050229
+20719  | mmap             | 9            | 0.050433
+20719  | mmap             | 9            | 0.050694
+20719  | mmap             | 9            | 0.051162
+20719  | mmap             | 9            | 0.051578
+20719  | mmap             | 3            | 0.052116
+20719  | close            | 9            | 0.052547
+20719  | mmap             | 158          | 0.052962
+20719  | unknown          | 218          | 0.053303
+20719  | set_tid_address  | 273          | 0.053803
+20719  | unknown          | 334          | 0.054126
+20719  | unknown          | 10           | 0.054720
+20719  | mprotect         | 10           | 0.055069
+20719  | mprotect         | 10           | 0.055469
+20719  | mprotect         | 302          | 0.055846
+20719  | unknown          | 11           | 0.056113
+20719  | munmap           | 318          | 0.056440
+20719  | getrandom        | 12           | 0.056674
+20719  | brk              | 12           | 0.056857
+20719  | brk              | 257          | 0.057074
+20719  | openat           | 5            | 0.057262
+20719  | fstat            | 9            | 0.057438
+20719  | mmap             | 3            | 0.057651
+20719  | close            | 79           | 0.057983
+20719  | unknown          | 5            | 0.058192
+20719  | fstat            | 1            | 0.058405
+20719  | write            | 3            | 0.058666
+20719  | close            | 3            | 0.058902
+20719  | close            | 231          | 0.059106
